@@ -1,0 +1,269 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farmer-Friendly Crop Advisory System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Bar -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo">
+                <i class="fas fa-seedling"></i>
+                <span data-lang-key="logoText">Crop Advisory</span>
+            </div>
+            <nav class="nav-links">
+                <a href="#home" class="nav-link" data-lang-key="navHome">Home</a>
+                <a href="#advisory" class="nav-link" data-lang-key="navAdvisory">Advisory</a>
+                <a href="#weather" class="nav-link" data-lang-key="navWeather">Weather</a>
+                <a href="#market" class="nav-link" data-lang-key="navMarket">Market</a>
+                <a href="#schemes" class="nav-link" data-lang-key="navSchemes">Schemes</a>
+                <a href="#forum" class="nav-link" data-lang-key="navForum">Forum</a>
+            </nav>
+            <div class="header-actions">
+                <select id="languageSelector" class="language-dropdown">
+                    <option value="en">English</option>
+                    <option value="hi">हिंदी</option>
+                    <option value="ta">தமிழ்</option>
+                    <option value="mr">मराठी</option>
+                    <option value="bn">বাংলা</option>
+                </select>
+                
+                
+                <button class="auth-btn login-btn" id="loginBtn" data-lang-key="loginBtn">Login</button>
+                <button class="auth-btn signup-btn" data-lang-key="signupBtn">Sign Up</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-animation">
+            <div class="crop-field"></div>
+            <div class="sun"></div>
+            <div class="clouds">
+                <div class="cloud cloud1"></div>
+                <div class="cloud cloud2"></div>
+                <div class="cloud cloud3"></div>
+            </div>
+        </div>
+        <div class="hero-content">
+            <h1 class="hero-title" data-lang-key="heroTitleEn">Empowering Farmers with Knowledge, Not Guesswork.</h1>
+            <h2 class="hero-title-hi" data-lang-key="heroTitleHi">किसानों को दे ज्ञान की शक्ति, अंदाज़े की नहीं।</h2>
+            <button class="cta-btn" onclick="scrollToDashboard()" data-lang-key="ctaBtn">Get Started</button>
+        </div>
+    </section>
+
+    <!-- Main Dashboard -->
+    <section class="dashboard" id="dashboard">
+        <h2 class="dashboard-title" data-lang-key="dashboardTitle">Farmer Dashboard</h2>
+
+        <div class="dashboard-grid">
+            <!-- Crop & Soil Advisory Card -->
+            <div class="dashboard-card" id="advisory">
+                <div class="card-icon crop-icon">
+                    <i class="fas fa-leaf"></i>
+                </div>
+                <h3 class="card-title" data-lang-key="cropAdvisoryTitle">Crop & Soil Advisory</h3>
+                <p class="card-desc-en" data-lang-key="cropAdvisoryDescEn">Get personalized crop recommendations based on your soil type</p>
+                <p class="card-desc-hi" data-lang-key="cropAdvisoryDescHi">अपनी मिट्टी के प्रकार के आधार पर फसल की सलाह पाएं</p>
+                <button class="card-btn" onclick="openCropAdvisory()" data-lang-key="learnMore">Learn More</button>
+            </div>
+
+            <!-- Weather Updates Card -->
+            <div class="dashboard-card" id="weather">
+                <div class="card-icon weather-icon">
+                    <i class="fas fa-cloud-sun"></i>
+                </div>
+                <h3 class="card-title" data-lang-key="weatherTitle">Weather Updates</h3>
+                <p class="card-desc-en" data-lang-key="weatherDescEn">Real-time weather forecasts for better farming decisions</p>
+                <p class="card-desc-hi" data-lang-key="weatherDescHi">बेहतर खेती के लिए मौसम का पूर्वानुमान</p>
+                <button class="card-btn" onclick="openWeatherUpdates()" data-lang-key="learnMore">Learn More</button>
+            </div>
+
+            <!-- Market Prices Card -->
+            <div class="dashboard-card" id="market">
+                <div class="card-icon market-icon">
+                    <i class="fas fa-chart-line"></i>
+                </div>
+                <h3 class="card-title" data-lang-key="marketTitle">Market Prices</h3>
+                <p class="card-desc-en" data-lang-key="marketDescEn">Latest mandi rates and price trends for your crops</p>
+                <p class="card-desc-hi" data-lang-key="marketDescHi">अपनी फसलों के लिए ताज़ा मंडी भाव</p>
+                <button class="card-btn" onclick="openMarketPrices()" data-lang-key="learnMore">Learn More</button>
+            </div>
+
+            <!-- Fertilizer Recommendations Card -->
+            <div class="dashboard-card">
+                <div class="card-icon fertilizer-icon">
+                    <i class="fas fa-flask"></i>
+                </div>
+                <h3 class="card-title" data-lang-key="fertilizerTitle">Fertilizer Recommendations</h3>
+                <p class="card-desc-en" data-lang-key="fertilizerDescEn">Optimal fertilizer guidance for healthy crop growth</p>
+                <p class="card-desc-hi" data-lang-key="fertilizerDescHi">स्वस्थ फसल के लिए उर्वरक की सही सलाह</p>
+                <button class="card-btn" onclick="openFertilizerRecommendation()" data-lang-key="learnMore">Learn More</button>
+            </div>
+
+            <!-- Government Schemes Card -->
+            <div class="dashboard-card" id="schemes">
+                <div class="card-icon scheme-icon">
+                    <i class="fas fa-landmark"></i>
+                </div>
+                <h3 class="card-title" data-lang-key="schemesTitle">Government Schemes</h3>
+                <p class="card-desc-en" data-lang-key="schemesDescEn">Access information about government benefits and subsidies</p>
+                <p class="card-desc-hi" data-lang-key="schemesDescHi">सरकारी योजनाओं और सब्सिडी की जानकारी</p>
+                <button class="card-btn" onclick="openGovernmentSchemes()" data-lang-key="learnMore">Learn More</button>
+            </div>
+
+            <!-- Community Forum Card -->
+            <div class="dashboard-card" id="forum">
+                <div class="card-icon forum-icon">
+                    <i class="fas fa-users"></i>
+                </div>
+                <h3 class="card-title" data-lang-key="forumTitle">Community Forum</h3>
+                <p class="card-desc-en" data-lang-key="forumDescEn">Connect with fellow farmers and share experiences</p>
+                <p class="card-desc-hi" data-lang-key="forumDescHi">अन्य किसानों से जुड़ें और अनुभव साझा करें</p>
+                <button class="card-btn" onclick="openCommunityForum()" data-lang-key="learnMore">Learn More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p data-lang-key="footerText">© 2024 Farmer-Friendly Crop Advisory System. Empowering Indian Farmers.</p>
+    </footer>
+
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('loginModal')">&times;</span>
+            <h2>Farmer Login</h2>
+            <form id="loginForm">
+                <input type="tel" id="loginUsername" placeholder="Phone Number (e.g., 9876543210)" required>
+                <input type="password" id="loginPassword" placeholder="Password" required>
+                <button type="submit" class="modal-btn">Login</button>
+            </form>
+            <p style="text-align: center; margin-top: 1rem;">Don't have an account? <a href="#" onclick="closeModal('loginModal'); showSignupMessage();" style="color: var(--deep-green);">Sign Up</a></p>
+        </div>
+    </div>
+
+    <!-- Signup Modal -->
+    <div id="signupModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('signupModal')">&times;</span>
+            <h2>Sign Up</h2>
+            <form id="signupForm">
+                <input type="text" id="signupUsername" placeholder="Username" required>
+                <input type="tel" id="signupPhone" placeholder="Phone Number (e.g., 9876543210)" required>
+                <input type="password" id="signupPassword" placeholder="Password" required>
+                <button type="submit" class="modal-btn">Sign Up</button>
+            </form>
+            <p style="text-align: center; margin-top: 1rem;">Already have an account? <a href="#" onclick="closeModal('signupModal'); showLoginMessage();" style="color: var(--deep-green);">Login</a></p>
+        </div>
+    </div>
+
+    <!-- Crop Advisory Modal -->
+    <div id="cropAdvisoryModal" class="modal">
+        <div class="modal-content modal-wide">
+            <span class="close" onclick="closeModal('cropAdvisoryModal')">&times;</span>
+            <h2>Crop & Soil Advisory</h2>
+            <div id="cropAdvisoryContent">
+                <div class="input-section">
+                    <label>Enter Your Location:</label>
+                    <input type="text" id="cropLocation" placeholder="City or District name">
+                    <button onclick="getCropAdvisory()" class="modal-btn">Get Advisory</button>
+                </div>
+                <div id="cropResults" class="results-section"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Weather Updates Modal -->
+    <div id="weatherModal" class="modal">
+        <div class="modal-content modal-wide">
+            <span class="close" onclick="closeModal('weatherModal')">&times;</span>
+            <h2>Weather Updates</h2>
+            <div id="weatherContent">
+                <div class="input-section">
+                    <label>Enter Your Location:</label>
+                    <input type="text" id="weatherLocation" placeholder="City name">
+                    <button onclick="getWeatherUpdates()" class="modal-btn">Get Weather</button>
+                </div>
+                <div id="weatherResults" class="results-section"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Market Prices Modal -->
+    <div id="marketModal" class="modal">
+        <div class="modal-content modal-wide">
+            <span class="close" onclick="closeModal('marketModal')">&times;</span>
+            <h2>Market Prices (Mandi Rates)</h2>
+            <div id="marketContent">
+                <div class="input-section">
+                    <label>Crop Name:</label>
+                    <input type="text" id="marketCrop" placeholder="e.g., Wheat, Rice, Cotton">
+                    <label>Location:</label>
+                    <input type="text" id="marketLocation" placeholder="City or District">
+                    <button onclick="getMarketPrices()" class="modal-btn">Get Prices</button>
+                </div>
+                <div id="marketResults" class="results-section"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fertilizer Recommendation Modal -->
+    <div id="fertilizerModal" class="modal">
+        <div class="modal-content modal-wide">
+            <span class="close" onclick="closeModal('fertilizerModal')">&times;</span>
+            <h2>Fertilizer Recommendations</h2>
+            <div id="fertilizerContent">
+                <div class="input-section">
+                    <label>Crop Name:</label>
+                    <input type="text" id="fertilizerCrop" placeholder="e.g., Wheat, Rice, Cotton">
+                    <label>Location:</label>
+                    <input type="text" id="fertilizerLocation" placeholder="City or District">
+                    <button onclick="getFertilizerRecommendation()" class="modal-btn">Get Recommendation</button>
+                </div>
+                <div id="fertilizerResults" class="results-section"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Government Schemes Modal -->
+    <div id="schemesModal" class="modal">
+        <div class="modal-content modal-wide">
+            <span class="close" onclick="closeModal('schemesModal')">&times;</span>
+            <h2>Government Schemes for Farmers</h2>
+            <div id="schemesContent" class="schemes-list">
+                <!-- Government schemes will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Community Forum Modal -->
+    <div id="forumModal" class="modal">
+        <div class="modal-content modal-wide">
+            <span class="close" onclick="closeModal('forumModal')">&times;</span>
+            <h2>Community Forum</h2>
+            <div id="forumContent">
+                <div class="forum-section">
+                    <h3>Ask a Question</h3>
+                    <textarea id="forumQuestion" placeholder="Type your farming question here..." rows="3"></textarea>
+                    <button onclick="postQuestion()" class="modal-btn">Post Question</button>
+                </div>
+                <div class="forum-section">
+                    <h3>Recent Discussions</h3>
+                    <div id="forumDiscussions" class="forum-discussions"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

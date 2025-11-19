@@ -1,0 +1,254 @@
+{
+  "en": [
+    {
+      "title": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "description": "Direct income support of ₹6,000 per year to all eligible farmer families in three equal installments of ₹2,000 each",
+      "eligibility": "All landholding farmer families across the country",
+      "benefits": "₹6,000 per year in three installments directly to bank account",
+      "application_process": "Register online at pmkisan.gov.in or visit nearest Common Service Center",
+      "website_url": "https://pmkisan.gov.in"
+    },
+    {
+      "title": "PM Fasal Bima Yojana (Crop Insurance)",
+      "description": "Comprehensive crop insurance scheme protecting farmers against crop loss due to natural calamities, pests & diseases",
+      "eligibility": "All farmers including sharecroppers and tenant farmers",
+      "benefits": "Insurance coverage for crop loss with minimal premium (1.5-2% for Kharif, 2% for Rabi crops)",
+      "application_process": "Apply through banks, CSCs, or agriculture offices during crop season",
+      "website_url": "https://pmfby.gov.in"
+    },
+    {
+      "title": "Soil Health Card Scheme",
+      "description": "Provides soil health cards to farmers with test-based nutrient recommendations for improving soil productivity",
+      "eligibility": "All farmer landholders",
+      "benefits": "Free soil testing and personalized fertilizer recommendations every 3 years",
+      "application_process": "Contact local agriculture department or Krishi Vigyan Kendra",
+      "website_url": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "title": "Kisan Credit Card (KCC)",
+      "description": "Provides adequate and timely credit support to farmers for agricultural and allied activities",
+      "eligibility": "All farmers including tenant farmers, oral lessees, and sharecroppers",
+      "benefits": "Credit facility up to ₹3 lakh at 4% interest with crop insurance",
+      "application_process": "Apply at any bank branch with land documents and Aadhaar card",
+      "website_url": "https://www.india.gov.in/kisan-credit-card-kcc-scheme"
+    },
+    {
+      "title": "PM-KUSUM (Solar Pumps Scheme)",
+      "description": "Financial support for installation of solar pumps and grid-connected solar power plants in rural areas",
+      "eligibility": "All individual farmers and farmer groups",
+      "benefits": "Subsidy of 60% on solar pump installation (30% central + 30% state)",
+      "application_process": "Apply through state nodal agency or DISCOM",
+      "website_url": "https://pmkusum.mnre.gov.in"
+    }
+  ],
+  "hi": [
+    {
+      "title": "पीएम-किसान (प्रधानमंत्री किसान सम्मान निधि)",
+      "description": "सभी पात्र किसान परिवारों को ₹6,000 प्रति वर्ष की प्रत्यक्ष आय सहायता तीन समान किस्तों में",
+      "eligibility": "देश भर के सभी भूमिधारक किसान परिवार",
+      "benefits": "प्रति वर्ष ₹6,000 तीन किस्तों में सीधे बैंक खाते में",
+      "application_process": "pmkisan.gov.in पर ऑनलाइन पंजीकरण करें या निकटतम सीएससी पर जाएं",
+      "website_url": "https://pmkisan.gov.in"
+    },
+    {
+      "title": "पीएम फसल बीमा योजना (फसल बीमा)",
+      "description": "प्राकृतिक आपदाओं, कीटों और रोगों के कारण फसल नुकसान से किसानों की सुरक्षा करने वाली व्यापक फसल बीमा योजना",
+      "eligibility": "बटाईदार और किरायेदार किसानों सहित सभी किसान",
+      "benefits": "न्यूनतम प्रीमियम (खरीफ के लिए 1.5-2%, रबी फसलों के लिए 2%) के साथ फसल नुकसान का बीमा कवर",
+      "application_process": "फसल मौसम के दौरान बैंकों, सीएससी या कृषि कार्यालयों के माध्यम से आवेदन करें",
+      "website_url": "https://pmfby.gov.in"
+    },
+    {
+      "title": "मृदा स्वास्थ्य कार्ड योजना",
+      "description": "मिट्टी की उत्पादकता में सुधार के लिए परीक्षण-आधारित पोषक तत्व सिफारिशों के साथ किसानों को मृदा स्वास्थ्य कार्ड प्रदान करता है",
+      "eligibility": "सभी किसान भूमिधारक",
+      "benefits": "हर 3 साल में मुफ्त मिट्टी परीक्षण और व्यक्तिगत उर्वरक सिफारिशें",
+      "application_process": "स्थानीय कृषि विभाग या कृषि विज्ञान केंद्र से संपर्क करें",
+      "website_url": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "title": "किसान क्रेडिट कार्ड (केसीसी)",
+      "description": "कृषि और संबद्ध गतिविधियों के लिए किसानों को पर्याप्त और समय पर ऋण सहायता प्रदान करता है",
+      "eligibility": "किरायेदार किसानों, मौखिक पट्टेदारों और बटाईदारों सहित सभी किसान",
+      "benefits": "फसल बीमा के साथ 4% ब्याज पर ₹3 लाख तक की ऋण सुविधा",
+      "application_process": "भूमि दस्तावेजों और आधार कार्ड के साथ किसी भी बैंक शाखा में आवेदन करें",
+      "website_url": "https://www.india.gov.in/kisan-credit-card-kcc-scheme"
+    },
+    {
+      "title": "पीएम-कुसुम (सौर पंप योजना)",
+      "description": "ग्रामीण क्षेत्रों में सौर पंप और ग्रिड से जुड़े सौर ऊर्जा संयंत्रों की स्थापना के लिए वित्तीय सहायता",
+      "eligibility": "सभी व्यक्तिगत किसान और किसान समूह",
+      "benefits": "सौर पंप स्थापना पर 60% सब्सिडी (30% केंद्रीय + 30% राज्य)",
+      "application_process": "राज्य नोडल एजेंसी या डिस्कॉम के माध्यम से आवेदन करें",
+      "website_url": "https://pmkusum.mnre.gov.in"
+    }
+  ],
+  "mr": [
+    {
+      "title": "पीएम-किसान (प्रधानमंत्री किसान सन्मान निधी)",
+      "description": "सर्व पात्र शेतकरी कुटुंबांना दरवर्षी ₹6,000 थेट उत्पन्न सहाय्य तीन समान हप्त्यांमध्ये",
+      "eligibility": "देशभरातील सर्व जमीनधारक शेतकरी कुटुंबे",
+      "benefits": "दरवर्षी ₹6,000 तीन हप्त्यांमध्ये थेट बँक खात्यात",
+      "application_process": "pmkisan.gov.in वर ऑनलाइन नोंदणी करा किंवा जवळच्या सीएससीला भेट द्या",
+      "website_url": "https://pmkisan.gov.in"
+    },
+    {
+      "title": "पीएम फसल विमा योजना (पीक विमा)",
+      "description": "नैसर्गिक आपत्ती, किडे आणि रोगांमुळे पीक नुकसानापासून शेतकऱ्यांचे संरक्षण करणारी सर्वसमावेशक पीक विमा योजना",
+      "eligibility": "भागीदार आणि भाडेकरू शेतकऱ्यांसह सर्व शेतकरी",
+      "benefits": "किमान प्रीमियम (खरीप साठी 1.5-2%, रब्बी पिकांसाठी 2%) सह पीक नुकसानाचे विमा संरक्षण",
+      "application_process": "पीक हंगामात बँका, सीएससी किंवा कृषी कार्यालयांमार्फत अर्ज करा",
+      "website_url": "https://pmfby.gov.in"
+    },
+    {
+      "title": "माती आरोग्य कार्ड योजना",
+      "description": "मातीची उत्पादकता सुधारण्यासाठी चाचणी-आधारित पोषक तत्व शिफारशींसह शेतकऱ्यांना माती आरोग्य कार्डे प्रदान करते",
+      "eligibility": "सर्व शेतकरी जमीनधारक",
+      "benefits": "दर 3 वर्षांनी मोफत माती चाचणी आणि वैयक्तिक खत शिफारसी",
+      "application_process": "स्थानिक कृषी विभाग किंवा कृषी विज्ञान केंद्राशी संपर्क साधा",
+      "website_url": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "title": "किसान क्रेडिट कार्ड (केसीसी)",
+      "description": "कृषी आणि संबंधित उपक्रमांसाठी शेतकऱ्यांना पुरेसे आणि वेळेवर कर्ज सहाय्य प्रदान करते",
+      "eligibility": "भाडेकरू शेतकरी, तोंडी भाडेकरू आणि भागीदारांसह सर्व शेतकरी",
+      "benefits": "पीक विम्यासह 4% व्याजदराने ₹3 लाखापर्यंत कर्ज सुविधा",
+      "application_process": "जमीन कागदपत्रे आणि आधार कार्डसह कोणत्याही बँक शाखेत अर्ज करा",
+      "website_url": "https://www.india.gov.in/kisan-credit-card-kcc-scheme"
+    },
+    {
+      "title": "पीएम-कुसुम (सौर पंप योजना)",
+      "description": "ग्रामीण भागात सौर पंप आणि ग्रिडशी जोडलेल्या सौर ऊर्जा प्रकल्पांच्या स्थापनेसाठी आर्थिक सहाय्य",
+      "eligibility": "सर्व वैयक्तिक शेतकरी आणि शेतकरी गट",
+      "benefits": "सौर पंप स्थापनेवर 60% अनुदान (30% केंद्रीय + 30% राज्य)",
+      "application_process": "राज्य नोडल एजन्सी किंवा डिस्कॉमद्वारे अर्ज करा",
+      "website_url": "https://pmkusum.mnre.gov.in"
+    }
+  ],
+  "bn": [
+    {
+      "title": "পিএম-কিসান (প্রধানমন্ত্রী কৃষক সম্মান নিধি)",
+      "description": "সমস্ত যোগ্য কৃষক পরিবারকে প্রতি বছর ₹6,000 সরাসরি আয় সহায়তা তিনটি সমান কিস্তিতে",
+      "eligibility": "দেশব্যাপী সমস্ত জমির মালিক কৃষক পরিবার",
+      "benefits": "বছরে ₹6,000 তিনটি কিস্তিতে সরাসরি ব্যাংক অ্যাকাউন্টে",
+      "application_process": "pmkisan.gov.in এ অনলাইন নিবন্ধন করুন বা নিকটতম সিএসসি দেখুন",
+      "website_url": "https://pmkisan.gov.in"
+    },
+    {
+      "title": "পিএম ফসল বিমা যোজনা (ফসল বিমা)",
+      "description": "প্রাকৃতিক দুর্যোগ, কীটপতঙ্গ এবং রোগের কারণে ফসলের ক্ষতি থেকে কৃষকদের রক্ষা করে ব্যাপক ফসল বিমা প্রকল্প",
+      "eligibility": "ভাগচাষী এবং ভাড়াটে কৃষক সহ সমস্ত কৃষক",
+      "benefits": "ন্যূনতম প্রিমিয়ামে (খরিফের জন্য 1.5-2%, রবি ফসলের জন্য 2%) ফসল ক্ষতির বিমা কভার",
+      "application_process": "ফসল মৌসুমে ব্যাংক, সিএসসি বা কৃষি অফিসের মাধ্যমে আবেদন করুন",
+      "website_url": "https://pmfby.gov.in"
+    },
+    {
+      "title": "মৃত্তিকা স্বাস্থ্য কার্ড প্রকল্প",
+      "description": "মাটির উৎপাদনশীলতা উন্নত করার জন্য পরীক্ষা-ভিত্তিক পুষ্টি সুপারিশ সহ কৃষকদের মৃত্তিকা স্বাস্থ্য কার্ড প্রদান করে",
+      "eligibility": "সমস্ত কৃষক জমির মালিক",
+      "benefits": "প্রতি 3 বছরে বিনামূল্যে মাটি পরীক্ষা এবং ব্যক্তিগত সার সুপারিশ",
+      "application_process": "স্থানীয় কৃষি বিভাগ বা কৃষি বিজ্ঞান কেন্দ্রে যোগাযোগ করুন",
+      "website_url": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "title": "কৃষক ক্রেডিট কার্ড (কেসিসি)",
+      "description": "কৃষি এবং সংশ্লিষ্ট কার্যক্রমের জন্য কৃষকদের পর্যাপ্ত এবং সময়মত ঋণ সহায়তা প্রদান করে",
+      "eligibility": "ভাড়াটে কৃষক, মৌখিক ইজারাদার এবং ভাগচাষী সহ সমস্ত কৃষক",
+      "benefits": "ফসল বিমা সহ 4% সুদে ₹3 লক্ষ পর্যন্ত ঋণ সুবিধা",
+      "application_process": "জমির কাগজপত্র এবং আধার কার্ড নিয়ে যেকোনো ব্যাংক শাখায় আবেদন করুন",
+      "website_url": "https://www.india.gov.in/kisan-credit-card-kcc-scheme"
+    },
+    {
+      "title": "পিএম-কুসুম (সৌর পাম্প প্রকল্প)",
+      "description": "গ্রামীণ এলাকায় সৌর পাম্প এবং গ্রিড-সংযুক্ত সৌর বিদ্যুৎ কেন্দ্র স্থাপনের জন্য আর্থিক সহায়তা",
+      "eligibility": "সমস্ত ব্যক্তিগত কৃষক এবং কৃষক দল",
+      "benefits": "সৌর পাম্প স্থাপনে 60% ভর্তুকি (30% কেন্দ্রীয় + 30% রাজ্য)",
+      "application_process": "রাজ্য নোডাল এজেন্সি বা ডিসকমের মাধ্যমে আবেদন করুন",
+      "website_url": "https://pmkusum.mnre.gov.in"
+    }
+  ],
+  "te": [
+    {
+      "title": "పిఎం-కిసాన్ (ప్రధాన మంత్రి కిసాన్ సమ్మాన్ నిధి)",
+      "description": "అన్ని అర్హత కలిగిన రైతు కుటుంబాలకు సంవత్సరానికి ₹6,000 ప్రత్యక్ష ఆదాయ మద్దతు మూడు సమాన విడతలలో",
+      "eligibility": "దేశవ్యాప్తంగా అన్ని భూస్వామ్య రైతు కుటుంబాలు",
+      "benefits": "సంవత్సరానికి ₹6,000 మూడు విడతలలో నేరుగా బ్యాంక్ ఖాతాలోకి",
+      "application_process": "pmkisan.gov.in లో ఆన్‌లైన్ రిజిస్ట్రేషన్ చేయండి లేదా సమీపంలోని సిఎస్‌సికి వెళ్లండి",
+      "website_url": "https://pmkisan.gov.in"
+    },
+    {
+      "title": "పిఎం ఫసల్ బీమా యోజనా (పంట బీమా)",
+      "description": "ప్రకృతి వైపరీత్యాలు, తెగుళ్లు మరియు వ్యాధుల కారణంగా పంట నష్టం నుండి రైతులను రక్షించే సమగ్ర పంట బీమా పథకం",
+      "eligibility": "భాగస్వాములు మరియు అద్దె రైతులతో సహా అన్ని రైతులు",
+      "benefits": "కనీస ప్రీమియం (ఖరీఫ్‌కు 1.5-2%, రబీ పంటలకు 2%) తో పంట నష్టానికి బీమా కవర్",
+      "application_process": "పంట సీజన్‌లో బ్యాంకులు, సిఎస్‌సి లేదా వ్యవసాయ కార్యాలయాల ద్వారా దరఖాస్తు చేసుకోండి",
+      "website_url": "https://pmfby.gov.in"
+    },
+    {
+      "title": "మట్టి ఆరోగ్య కార్డు పథకం",
+      "description": "మట్టి ఉత్పాదకతను మెరుగుపరచడానికి పరీక్ష-ఆధారిత పోషక సిఫార్సులతో రైతులకు మట్టి ఆరోగ్య కార్డులను అందిస్తుంది",
+      "eligibility": "అన్ని రైతు భూస్వాములు",
+      "benefits": "ప్రతి 3 సంవత్సరాలకు ఉచిత మట్టి పరీక్ష మరియు వ్యక్తిగత ఎరువుల సిఫార్సులు",
+      "application_process": "స్థానిక వ్యవసాయ విభాగం లేదా కృషి విజ్ఞాన్ కేంద్రాన్ని సంప్రదించండి",
+      "website_url": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "title": "కిసాన్ క్రెడిట్ కార్డ్ (కెసిసి)",
+      "description": "వ్యవసాయం మరియు సంబంధిత కార్యకలాపాలకు రైతులకు తగినంత మరియు సకాలంలో రుణ మద్దతును అందిస్తుంది",
+      "eligibility": "అద్దె రైతులు, మౌఖిక లీజుదారులు మరియు భాగస్వాములతో సహా అన్ని రైతులు",
+      "benefits": "పంట బీమాతో 4% వడ్డీతో ₹3 లక్షల వరకు రుణ సౌకర్యం",
+      "application_process": "భూమి పత్రాలు మరియు ఆధార్ కార్డుతో ఏదైనా బ్యాంక్ శాఖలో దరఖాస్తు చేసుకోండి",
+      "website_url": "https://www.india.gov.in/kisan-credit-card-kcc-scheme"
+    },
+    {
+      "title": "పిఎం-కుసుమ్ (సోలార్ పంపుల పథకం)",
+      "description": "గ్రామీణ ప్రాంతాల్లో సోలార్ పంపులు మరియు గ్రిడ్-కనెక్టెడ్ సోలార్ పవర్ ప్లాంట్ల స్థాపనకు ఆర్థిక మద్దతు",
+      "eligibility": "అన్ని వ్యక్తిగత రైతులు మరియు రైతు సంఘాలు",
+      "benefits": "సోలార్ పంప్ ఇన్‌స్టాలేషన్‌పై 60% సబ్సిడీ (30% కేంద్ర + 30% రాష్ట్ర)",
+      "application_process": "రాష్ట్ర నోడల్ ఏజెన్సీ లేదా డిస్కాం ద్వారా దరఖాస్తు చేసుకోండి",
+      "website_url": "https://pmkusum.mnre.gov.in"
+    }
+  ],
+  "pa": [
+    {
+      "title": "ਪੀਐਮ-ਕਿਸਾਨ (ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਕਿਸਾਨ ਸਮਾਨ ਨਿਧੀ)",
+      "description": "ਸਾਰੇ ਯੋਗ ਕਿਸਾਨ ਪਰਿਵਾਰਾਂ ਨੂੰ ਸਾਲਾਨਾ ₹6,000 ਦੀ ਸਿੱਧੀ ਆਮਦਨ ਸਹਾਇਤਾ ਤਿੰਨ ਬਰਾਬਰ ਕਿਸ਼ਤਾਂ ਵਿੱਚ",
+      "eligibility": "ਦੇਸ਼ ਭਰ ਵਿੱਚ ਜ਼ਮੀਨ ਧਾਰਕ ਕਿਸਾਨ ਪਰਿਵਾਰ",
+      "benefits": "ਸਾਲਾਨਾ ₹6,000 ਤਿੰਨ ਕਿਸ਼ਤਾਂ ਵਿੱਚ ਸਿੱਧੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ",
+      "application_process": "pmkisan.gov.in ਤੇ ਔਨਲਾਈਨ ਰਜਿਸਟਰ ਕਰੋ ਜਾਂ ਨਜ਼ਦੀਕੀ ਸੀਐਸਸੀ ਤੇ ਜਾਓ",
+      "website_url": "https://pmkisan.gov.in"
+    },
+    {
+      "title": "ਪੀਐਮ ਫਸਲ ਬੀਮਾ ਯੋਜਨਾ (ਫਸਲ ਬੀਮਾ)",
+      "description": "ਕੁਦਰਤੀ ਆਫ਼ਤਾਂ, ਕੀੜੇ ਅਤੇ ਬਿਮਾਰੀਆਂ ਕਾਰਨ ਫਸਲ ਦੇ ਨੁਕਸਾਨ ਤੋਂ ਕਿਸਾਨਾਂ ਦੀ ਸੁਰੱਖਿਆ ਕਰਨ ਵਾਲੀ ਵਿਆਪਕ ਫਸਲ ਬੀਮਾ ਯੋਜਨਾ",
+      "eligibility": "ਹਿੱਸੇਦਾਰ ਅਤੇ ਕਿਰਾਏਦਾਰ ਕਿਸਾਨਾਂ ਸਮੇਤ ਸਾਰੇ ਕਿਸਾਨ",
+      "benefits": "ਘੱਟੋ-ਘੱਟ ਪ੍ਰੀਮੀਅਮ (ਖਰੀਫ ਲਈ 1.5-2%, ਰਬੀ ਫਸਲਾਂ ਲਈ 2%) ਨਾਲ ਫਸਲ ਨੁਕਸਾਨ ਦਾ ਬੀਮਾ ਕਵਰ",
+      "application_process": "ਫਸਲ ਸੀਜ਼ਨ ਦੌਰਾਨ ਬੈਂਕਾਂ, ਸੀਐਸਸੀ ਜਾਂ ਖੇਤੀਬਾੜੀ ਦਫ਼ਤਰਾਂ ਰਾਹੀਂ ਅਰਜ਼ੀ ਦਿਓ",
+      "website_url": "https://pmfby.gov.in"
+    },
+    {
+      "title": "ਮਿੱਟੀ ਸਿਹਤ ਕਾਰਡ ਯੋਜਨਾ",
+      "description": "ਮਿੱਟੀ ਦੀ ਉਤਪਾਦਕਤਾ ਸੁਧਾਰਨ ਲਈ ਟੈਸਟ-ਆਧਾਰਿਤ ਪੋਸ਼ਕ ਸਿਫ਼ਾਰਿਸ਼ਾਂ ਦੇ ਨਾਲ ਕਿਸਾਨਾਂ ਨੂੰ ਮਿੱਟੀ ਸਿਹਤ ਕਾਰਡ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ",
+      "eligibility": "ਸਾਰੇ ਕਿਸਾਨ ਜ਼ਮੀਨ ਧਾਰਕ",
+      "benefits": "ਹਰ 3 ਸਾਲ ਵਿੱਚ ਮੁਫ਼ਤ ਮਿੱਟੀ ਜਾਂਚ ਅਤੇ ਵਿਅਕਤੀਗਤ ਖਾਦ ਸਿਫ਼ਾਰਿਸ਼ਾਂ",
+      "application_process": "ਸਥਾਨਕ ਖੇਤੀਬਾੜੀ ਵਿਭਾਗ ਜਾਂ ਕ੍ਰਿਸ਼ੀ ਵਿਗਿਆਨ ਕੇਂਦਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+      "website_url": "https://soilhealth.dac.gov.in"
+    },
+    {
+      "title": "ਕਿਸਾਨ ਕ੍ਰੈਡਿਟ ਕਾਰਡ (ਕੇਸੀਸੀ)",
+      "description": "ਖੇਤੀਬਾੜੀ ਅਤੇ ਸੰਬੰਧਿਤ ਗਤੀਵਿਧੀਆਂ ਲਈ ਕਿਸਾਨਾਂ ਨੂੰ ਢੁਕਵੀਂ ਅਤੇ ਸਮੇਂ ਸਿਰ ਕਰਜ਼ਾ ਸਹਾਇਤਾ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ",
+      "eligibility": "ਕਿਰਾਏਦਾਰ ਕਿਸਾਨ, ਜ਼ੁਬਾਨੀ ਪੱਟੇਦਾਰ ਅਤੇ ਹਿੱਸੇਦਾਰਾਂ ਸਮੇਤ ਸਾਰੇ ਕਿਸਾਨ",
+      "benefits": "ਫਸਲ ਬੀਮੇ ਨਾਲ 4% ਵਿਆਜ ਤੇ ₹3 ਲੱਖ ਤੱਕ ਕਰਜ਼ਾ ਸਹੂਲਤ",
+      "application_process": "ਜ਼ਮੀਨ ਦੇ ਕਾਗਜ਼ਾਤ ਅਤੇ ਆਧਾਰ ਕਾਰਡ ਨਾਲ ਕਿਸੇ ਵੀ ਬੈਂਕ ਸ਼ਾਖਾ ਵਿੱਚ ਅਰਜ਼ੀ ਦਿਓ",
+      "website_url": "https://www.india.gov.in/kisan-credit-card-kcc-scheme"
+    },
+    {
+      "title": "ਪੀਐਮ-ਕੁਸੁਮ (ਸੋਲਰ ਪੰਪ ਯੋਜਨਾ)",
+      "description": "ਪੇਂਡੂ ਖੇਤਰਾਂ ਵਿੱਚ ਸੋਲਰ ਪੰਪਾਂ ਅਤੇ ਗਰਿੱਡ-ਕਨੈਕਟਿਡ ਸੋਲਰ ਪਾਵਰ ਪਲਾਂਟਾਂ ਦੀ ਸਥਾਪਨਾ ਲਈ ਵਿੱਤੀ ਸਹਾਇਤਾ",
+      "eligibility": "ਸਾਰੇ ਵਿਅਕਤੀਗਤ ਕਿਸਾਨ ਅਤੇ ਕਿਸਾਨ ਸਮੂਹ",
+      "benefits": "ਸੋਲਰ ਪੰਪ ਲਗਾਉਣ ਤੇ 60% ਸਬਸਿਡੀ (30% ਕੇਂਦਰੀ + 30% ਰਾਜ)",
+      "application_process": "ਰਾਜ ਨੋਡਲ ਏਜੰਸੀ ਜਾਂ ਡਿਸਕਾਮ ਰਾਹੀਂ ਅਰਜ਼ੀ ਦਿਓ",
+      "website_url": "https://pmkusum.mnre.gov.in"
+    }
+  ]
+}

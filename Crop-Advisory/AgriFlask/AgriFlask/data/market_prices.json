@@ -1,0 +1,374 @@
+{
+  "en": [
+    {
+      "crop": "Wheat",
+      "market_name": "APMC Mandi Kaithal",
+      "district": "Kaithal",
+      "state": "Haryana",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Karnal Mandi",
+      "district": "Karnal",
+      "state": "Haryana",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Bathinda Mandi",
+      "district": "Bathinda",
+      "state": "Punjab",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Onion",
+      "market_name": "Lasalgaon APMC",
+      "district": "Nashik",
+      "state": "Maharashtra",
+      "min_price": 2200,
+      "max_price": 3500,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Agra Mandi",
+      "district": "Agra",
+      "state": "Uttar Pradesh",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-07"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Azadpur Mandi",
+      "district": "Delhi",
+      "state": "Delhi",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    }
+  ],
+  "hi": [
+    {
+      "crop": "गेहूं",
+      "market_name": "एपीएमसी मंडी कैथल",
+      "district": "कैथल",
+      "state": "हरियाणा",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "चावल",
+      "market_name": "करनाल मंडी",
+      "district": "करनाल",
+      "state": "हरियाणा",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "कपास",
+      "market_name": "बठिंडा मंडी",
+      "district": "बठिंडा",
+      "state": "पंजाब",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "प्याज",
+      "market_name": "लासलगांव एपीएमसी",
+      "district": "नासिक",
+      "state": "महाराष्ट्र",
+      "min_price": 2200,
+      "max_price": 3500,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "आलू",
+      "market_name": "आगरा मंडी",
+      "district": "आगरा",
+      "state": "उत्तर प्रदेश",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-07"
+    },
+    {
+      "crop": "टमाटर",
+      "market_name": "आज़ादपुर मंडी",
+      "district": "दिल्ली",
+      "state": "दिल्ली",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    }
+  ],
+  "mr": [
+    {
+      "crop": "गहू",
+      "market_name": "एपीएमसी मंडी कैथल",
+      "district": "कैथल",
+      "state": "हरियाणा",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "तांदूळ",
+      "market_name": "करनाल मंडी",
+      "district": "करनाल",
+      "state": "हरियाणा",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "कापूस",
+      "market_name": "बठिंडा मंडी",
+      "district": "बठिंडा",
+      "state": "पंजाब",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "कांदा",
+      "market_name": "लासलगाव एपीएमसी",
+      "district": "नाशिक",
+      "state": "महाराष्ट्र",
+      "min_price": 2200,
+      "max_price": 3500,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "बटाटा",
+      "market_name": "आग्रा मंडी",
+      "district": "आग्रा",
+      "state": "उत्तर प्रदेश",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-07"
+    },
+    {
+      "crop": "टोमॅटो",
+      "market_name": "आझादपूर मंडी",
+      "district": "दिल्ली",
+      "state": "दिल्ली",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    }
+  ],
+  "bn": [
+    {
+      "crop": "গম",
+      "market_name": "এপিএমসি মান্ডি কৈথাল",
+      "district": "কৈথাল",
+      "state": "হরিয়ানা",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "চাল",
+      "market_name": "করনাল মান্ডি",
+      "district": "করনাল",
+      "state": "হরিয়ানা",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "তুলা",
+      "market_name": "ভাঠিন্ডা মান্ডি",
+      "district": "ভাঠিন্ডা",
+      "state": "পাঞ্জাব",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "পেঁয়াজ",
+      "market_name": "লাসালগাঁও এপিএমসি",
+      "district": "নাসিক",
+      "state": "মহারাষ্ট্র",
+      "min_price": 2200,
+      "max_price": 3500,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "আলু",
+      "market_name": "আগ্রা মান্ডি",
+      "district": "আগ্রা",
+      "state": "উত্তরপ্রদেশ",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-07"
+    },
+    {
+      "crop": "টমেটো",
+      "market_name": "আজাদপুর মান্ডি",
+      "district": "দিল্লি",
+      "state": "দিল্লি",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    }
+  ],
+  "te": [
+    {
+      "crop": "గోధుమ",
+      "market_name": "ఏపీఎంసీ మండి కైథల్",
+      "district": "కైథల్",
+      "state": "హర్యానా",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "బియ్యం",
+      "market_name": "కర్నాల్ మండి",
+      "district": "కర్నాల్",
+      "state": "హర్యానా",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "పత్తి",
+      "market_name": "భటింద మండి",
+      "district": "భటింద",
+      "state": "పంజాబ్",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "ఉల్లిపాయ",
+      "market_name": "లాసల్‌గావ్ ఏపీఎంసీ",
+      "district": "నాసిక్",
+      "state": "మహారాష్ట్ర",
+      "min_price": 2200,
+      "max_price": 3500,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "బంగాళాదుంప",
+      "market_name": "ఆగ్రా మండి",
+      "district": "ఆగ్రా",
+      "state": "ఉత్తర ప్రదేశ్",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-07"
+    },
+    {
+      "crop": "టమోటా",
+      "market_name": "అజాద్‌పూర్ మండి",
+      "district": "ఢిల్లీ",
+      "state": "ఢిల్లీ",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    }
+  ],
+  "pa": [
+    {
+      "crop": "ਕਣਕ",
+      "market_name": "ਏਪੀਐਮਸੀ ਮੰਡੀ ਕੈਥਲ",
+      "district": "ਕੈਥਲ",
+      "state": "ਹਰਿਆਣਾ",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "ਚੌਲ",
+      "market_name": "ਕਰਨਾਲ ਮੰਡੀ",
+      "district": "ਕਰਨਾਲ",
+      "state": "ਹਰਿਆਣਾ",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "ਕਪਾਹ",
+      "market_name": "ਬਠਿੰਡਾ ਮੰਡੀ",
+      "district": "ਬਠਿੰਡਾ",
+      "state": "ਪੰਜਾਬ",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "ਪਿਆਜ਼",
+      "market_name": "ਲਾਸਲਗਾਂਵ ਏਪੀਐਮਸੀ",
+      "district": "ਨਾਸਿਕ",
+      "state": "ਮਹਾਰਾਸ਼ਟਰ",
+      "min_price": 2200,
+      "max_price": 3500,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "ਆਲੂ",
+      "market_name": "ਆਗਰਾ ਮੰਡੀ",
+      "district": "ਆਗਰਾ",
+      "state": "ਉੱਤਰ ਪ੍ਰਦੇਸ਼",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-07"
+    },
+    {
+      "crop": "ਟਮਾਟਰ",
+      "market_name": "ਆਜ਼ਾਦਪੁਰ ਮੰਡੀ",
+      "district": "ਦਿੱਲੀ",
+      "state": "ਦਿੱਲੀ",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    }
+  ]
+}

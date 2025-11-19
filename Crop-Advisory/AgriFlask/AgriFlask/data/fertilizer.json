@@ -1,0 +1,314 @@
+{
+  "en": [
+    {
+      "crop": "Wheat",
+      "fertilizer_schedule": {
+        "basal": "Apply 60 kg N + 60 kg P2O5 + 40 kg K2O per hectare at sowing",
+        "first_irrigation": "Apply 30 kg N per hectare (21 days after sowing)",
+        "second_irrigation": "Apply 30 kg N per hectare (40-50 days after sowing)"
+      },
+      "organic_alternative": "Use 5-7 tonnes of FYM or compost per hectare",
+      "dosage_reduction": "If using organic manure, reduce chemical fertilizer by 25%"
+    },
+    {
+      "crop": "Rice",
+      "fertilizer_schedule": {
+        "nursery": "Apply 10 kg N + 20 kg P2O5 per nursery bed",
+        "transplanting": "Apply 50 kg N + 50 kg P2O5 + 50 kg K2O per hectare",
+        "tillering": "Apply 25 kg N per hectare (20-25 days after transplanting)",
+        "panicle": "Apply 25 kg N per hectare (40-45 days after transplanting)"
+      },
+      "organic_alternative": "Apply 8-10 tonnes of farmyard manure",
+      "dosage_reduction": "Reduce nitrogen by 30% when using compost"
+    },
+    {
+      "crop": "Cotton",
+      "fertilizer_schedule": {
+        "basal": "75 kg N + 75 kg P2O5 + 75 kg K2O per hectare at sowing",
+        "square_formation": "Apply 37.5 kg N at 30 days",
+        "flowering": "Apply 37.5 kg N at 60 days"
+      },
+      "organic_alternative": "10 tonnes FYM + Azotobacter biofertilizer",
+      "dosage_reduction": "Organic inputs reduce chemical requirement by 20-25%"
+    },
+    {
+      "crop": "Potato",
+      "fertilizer_schedule": {
+        "planting": "120 kg N + 80 kg P2O5 + 100 kg K2O per hectare",
+        "earthing_up": "Split nitrogen in 2 doses - at planting and earthing up"
+      },
+      "organic_alternative": "6-8 tonnes of well-decomposed FYM",
+      "dosage_reduction": "With organic manure, reduce NPK by 20%"
+    },
+    {
+      "crop": "Tomato",
+      "fertilizer_schedule": {
+        "basal": "Apply 50% of recommended dose at transplanting",
+        "vegetative": "25% dose at 20-25 days",
+        "flowering": "25% dose at 40-45 days"
+      },
+      "organic_alternative": "10 tonnes FYM + vermicompost 2 tonnes/ha",
+      "dosage_reduction": "Organic amendments reduce fertilizer need by 25-30%"
+    }
+  ],
+  "hi": [
+    {
+      "crop": "गेहूं",
+      "fertilizer_schedule": {
+        "basal": "बुवाई के समय 60 किग्रा नाइट्रोजन + 60 किग्रा फास्फोरस + 40 किग्रा पोटाश प्रति हेक्टेयर",
+        "first_irrigation": "पहली सिंचाई (21 दिन) पर 30 किग्रा नाइट्रोजन",
+        "second_irrigation": "दूसरी सिंचाई (40-50 दिन) पर 30 किग्रा नाइट्रोजन"
+      },
+      "organic_alternative": "5-7 टन गोबर की खाद या कम्पोस्ट प्रति हेक्टेयर",
+      "dosage_reduction": "जैविक खाद उपयोग पर रासायनिक उर्वरक 25% कम करें"
+    },
+    {
+      "crop": "धान",
+      "fertilizer_schedule": {
+        "nursery": "नर्सरी में 10 किग्रा नाइट्रोजन + 20 किग्रा फास्फोरस",
+        "transplanting": "रोपाई पर 50 किग्रा नाइट्रोजन + 50 किग्रा फास्फोरस + 50 किग्रा पोटाश",
+        "tillering": "कल्ले निकलते समय (20-25 दिन) 25 किग्रा नाइट्रोजन",
+        "panicle": "बाली आने पर (40-45 दिन) 25 किग्रा नाइट्रोजन"
+      },
+      "organic_alternative": "8-10 टन गोबर की खाद",
+      "dosage_reduction": "कम्पोस्ट उपयोग पर नाइट्रोजन 30% कम करें"
+    },
+    {
+      "crop": "कपास",
+      "fertilizer_schedule": {
+        "basal": "बुवाई पर 75 किग्रा नाइट्रोजन + 75 किग्रा फास्फोरस + 75 किग्रा पोटाश",
+        "square_formation": "30 दिन पर 37.5 किग्रा नाइट्रोजन",
+        "flowering": "60 दिन पर 37.5 किग्रा नाइट्रोजन"
+      },
+      "organic_alternative": "10 टन गोबर की खाद + एजोटोबैक्टर जैव उर्वरक",
+      "dosage_reduction": "जैविक खाद से रासायनिक उर्वरक 20-25% कम"
+    },
+    {
+      "crop": "आलू",
+      "fertilizer_schedule": {
+        "planting": "रोपण पर 120 किग्रा नाइट्रोजन + 80 किग्रा फास्फोरस + 100 किग्रा पोटाश",
+        "earthing_up": "नाइट्रोजन को 2 बार - रोपण और मिट्टी चढ़ाते समय"
+      },
+      "organic_alternative": "6-8 टन सड़ी हुई गोबर की खाद",
+      "dosage_reduction": "जैविक खाद से NPK 20% कम करें"
+    },
+    {
+      "crop": "टमाटर",
+      "fertilizer_schedule": {
+        "basal": "रोपाई पर अनुशंसित खुराक का 50%",
+        "vegetative": "20-25 दिन पर 25% खुराक",
+        "flowering": "40-45 दिन पर 25% खुराक"
+      },
+      "organic_alternative": "10 टन गोबर की खाद + 2 टन वर्मीकम्पोस्ट प्रति हेक्टेयर",
+      "dosage_reduction": "जैविक संशोधन से उर्वरक 25-30% कम"
+    }
+  ],
+  "mr": [
+    {
+      "crop": "गहू",
+      "fertilizer_schedule": {
+        "basal": "पेरणीच्या वेळी 60 किग्रॅ नायट्रोजन + 60 किग्रॅ फॉस्फरस + 40 किग्रॅ पोटॅश प्रति हेक्टर",
+        "first_irrigation": "पहिल्या पाण्यावर (21 दिवस) 30 किग्रॅ नायट्रोजन",
+        "second_irrigation": "दुसऱ्या पाण्यावर (40-50 दिवस) 30 किग्रॅ नायट्रोजन"
+      },
+      "organic_alternative": "5-7 टन शेणखत किंवा कंपोस्ट प्रति हेक्टर",
+      "dosage_reduction": "सेंद्रिय खत वापरल्यास रासायनिक खत 25% कमी करा"
+    },
+    {
+      "crop": "तांदूळ",
+      "fertilizer_schedule": {
+        "nursery": "रोपवाटिकेत 10 किग्रॅ नायट्रोजन + 20 किग्रॅ फॉस्फरस",
+        "transplanting": "लागवडीवर 50 किग्रॅ नायट्रोजन + 50 किग्रॅ फॉस्फरस + 50 किग्रॅ पोटॅश",
+        "tillering": "फांद्या येताना (20-25 दिवस) 25 किग्रॅ नायट्रोजन",
+        "panicle": "बोंड येताना (40-45 दिवस) 25 किग्रॅ नायट्रोजन"
+      },
+      "organic_alternative": "8-10 टन शेणखत",
+      "dosage_reduction": "कंपोस्ट वापरल्यास नायट्रोजन 30% कमी करा"
+    },
+    {
+      "crop": "कापूस",
+      "fertilizer_schedule": {
+        "basal": "पेरणीवर 75 किग्रॅ नायट्रोजन + 75 किग्रॅ फॉस्फरस + 75 किग्रॅ पोटॅश",
+        "square_formation": "30 दिवसांवर 37.5 किग्रॅ नायट्रोजन",
+        "flowering": "60 दिवसांवर 37.5 किग्रॅ नायट्रोजन"
+      },
+      "organic_alternative": "10 टन शेणखत + अॅझोटोबॅक्टर जैव खत",
+      "dosage_reduction": "सेंद्रिय खतामुळे रासायनिक खत 20-25% कमी"
+    },
+    {
+      "crop": "बटाटा",
+      "fertilizer_schedule": {
+        "planting": "लागवडीवर 120 किग्रॅ नायट्रोजन + 80 किग्रॅ फॉस्फरस + 100 किग्रॅ पोटॅश",
+        "earthing_up": "नायट्रोजन 2 वेळा - लागवड आणि माती चढवताना"
+      },
+      "organic_alternative": "6-8 टन कुजलेले शेणखत",
+      "dosage_reduction": "सेंद्रिय खतामुळे NPK 20% कमी करा"
+    },
+    {
+      "crop": "टोमॅटो",
+      "fertilizer_schedule": {
+        "basal": "रोपण वेळी शिफारस केलेल्या डोसचे 50%",
+        "vegetative": "20-25 दिवसांवर 25% डोस",
+        "flowering": "40-45 दिवसांवर 25% डोस"
+      },
+      "organic_alternative": "10 टन शेणखत + 2 टन व्हर्मीकम्पोस्ट प्रति हेक्टर",
+      "dosage_reduction": "सेंद्रिय सुधारणांमुळे खत 25-30% कमी"
+    }
+  ],
+  "bn": [
+    {
+      "crop": "গম",
+      "fertilizer_schedule": {
+        "basal": "বপনের সময় 60 কেজি নাইট্রোজেন + 60 কেজি ফসফরাস + 40 কেজি পটাশিয়াম প্রতি হেক্টরে",
+        "first_irrigation": "প্রথম সেচে (21 দিন) 30 কেজি নাইট্রোজেন",
+        "second_irrigation": "দ্বিতীয় সেচে (40-50 দিন) 30 কেজি নাইট্রোজেন"
+      },
+      "organic_alternative": "5-7 টন গোবর সার বা কম্পোস্ট প্রতি হেক্টরে",
+      "dosage_reduction": "জৈব সার ব্যবহারে রাসায়নিক সার 25% কমান"
+    },
+    {
+      "crop": "ধান",
+      "fertilizer_schedule": {
+        "nursery": "চারাতলায় 10 কেজি নাইট্রোজেন + 20 কেজি ফসফরাস",
+        "transplanting": "রোপণে 50 কেজি নাইট্রোজেন + 50 কেজি ফসফরাস + 50 কেজি পটাশিয়াম",
+        "tillering": "কুশি আসার সময় (20-25 দিন) 25 কেজি নাইট্রোজেন",
+        "panicle": "শীষ আসার সময় (40-45 দিন) 25 কেজি নাইট্রোজেন"
+      },
+      "organic_alternative": "8-10 টন গোবর সার",
+      "dosage_reduction": "কম্পোস্ট ব্যবহারে নাইট্রোজেন 30% কমান"
+    },
+    {
+      "crop": "তুলা",
+      "fertilizer_schedule": {
+        "basal": "বপনে 75 কেজি নাইট্রোজেন + 75 কেজি ফসফরাস + 75 কেজি পটাশিয়াম",
+        "square_formation": "30 দিনে 37.5 কেজি নাইট্রোজেন",
+        "flowering": "60 দিনে 37.5 কেজি নাইট্রোজেন"
+      },
+      "organic_alternative": "10 টন গোবর সার + অ্যাজোটোব্যাক্টার জৈব সার",
+      "dosage_reduction": "জৈব সারে রাসায়নিক সার 20-25% কম"
+    },
+    {
+      "crop": "আলু",
+      "fertilizer_schedule": {
+        "planting": "রোপণে 120 কেজি নাইট্রোজেন + 80 কেজি ফসফরাস + 100 কেজি পটাশিয়াম",
+        "earthing_up": "নাইট্রোজেন 2 বারে - রোপণ এবং মাটি দেওয়ার সময়"
+      },
+      "organic_alternative": "6-8 টন পচা গোবর সার",
+      "dosage_reduction": "জৈব সারে NPK 20% কমান"
+    },
+    {
+      "crop": "টমেটো",
+      "fertilizer_schedule": {
+        "basal": "রোপণে সুপারিশকৃত মাত্রার 50%",
+        "vegetative": "20-25 দিনে 25% মাত্রা",
+        "flowering": "40-45 দিনে 25% মাত্রা"
+      },
+      "organic_alternative": "10 টন গোবর সার + 2 টন ভার্মিকম্পোস্ট প্রতি হেক্টরে",
+      "dosage_reduction": "জৈব সংশোধনে সার 25-30% কম"
+    }
+  ],
+  "te": [
+    {
+      "crop": "గోధుమ",
+      "fertilizer_schedule": {
+        "basal": "విత్తనం సమయంలో 60 కిలోల నత్రజని + 60 కిలోల భాస్వరం + 40 కిలోల పొటాషియం హెక్టారుకు",
+        "first_irrigation": "మొదటి నీటిపారుదల (21 రోజులు) 30 కిలోల నత్రజని",
+        "second_irrigation": "రెండవ నీటిపారుదల (40-50 రోజులు) 30 కిలోల నత్రజని"
+      },
+      "organic_alternative": "హెక్టారుకు 5-7 టన్నుల పశుగ్రాస లేదా కంపోస్ట్",
+      "dosage_reduction": "సేంద్రీయ ఎరువులు ఉపయోగిస్తే రసాయన ఎరువులు 25% తగ్గించండి"
+    },
+    {
+      "crop": "వరి",
+      "fertilizer_schedule": {
+        "nursery": "మొలక తోటలో 10 కిలోల నత్రజని + 20 కిలోల భాస్వరం",
+        "transplanting": "నాట్లు నాటేటప్పుడు 50 కిలోల నత్రజని + 50 కిలోల భాస్వరం + 50 కిలోల పొటాషియం",
+        "tillering": "చిగురు వచ్చేటప్పుడు (20-25 రోజులు) 25 కిలోల నత్రజని",
+        "panicle": "వెన్నెల వచ్చేటప్పుడు (40-45 రోజులు) 25 కిలోల నత్రజని"
+      },
+      "organic_alternative": "8-10 టన్నుల పశుగ్రాస",
+      "dosage_reduction": "కంపోస్ట్ వాడితే నత్రజని 30% తగ్గించండి"
+    },
+    {
+      "crop": "పత్తి",
+      "fertilizer_schedule": {
+        "basal": "విత్తనంలో 75 కిలోల నత్రజని + 75 కిలోల భాస్వరం + 75 కిలోల పొటాషియం",
+        "square_formation": "30 రోజుల్లో 37.5 కిలోల నత్రజని",
+        "flowering": "60 రోజుల్లో 37.5 కిలోల నత్రజని"
+      },
+      "organic_alternative": "10 టన్నుల పశుగ్రాస + అజోటోబాక్టర్ జీవ ఎరువు",
+      "dosage_reduction": "సేంద్రీయ ఎరువులతో రసాయన ఎరువులు 20-25% తగ్గుతాయి"
+    },
+    {
+      "crop": "బంగాళదుంప",
+      "fertilizer_schedule": {
+        "planting": "నాటడంలో 120 కిలోల నత్రజని + 80 కిలోల భాస్వరం + 100 కిలోల పొటాషియం",
+        "earthing_up": "నత్రజని 2 సార్లు - నాటడం మరియు మట్టి వేసేటప్పుడు"
+      },
+      "organic_alternative": "6-8 టన్నుల కుళ్ళిన పశుగ్రాస",
+      "dosage_reduction": "సేంద్రీయ ఎరువులతో NPK 20% తగ్గించండి"
+    },
+    {
+      "crop": "టమోటా",
+      "fertilizer_schedule": {
+        "basal": "నాటేటప్పుడు సిఫార్సు చేసిన మోతాదులో 50%",
+        "vegetative": "20-25 రోజుల్లో 25% మోతాదు",
+        "flowering": "40-45 రోజుల్లో 25% మోతాదు"
+      },
+      "organic_alternative": "10 టన్నుల పశుగ్రాస + 2 టన్నుల వర్మీకంపోస్ట్ హెక్టారుకు",
+      "dosage_reduction": "సేంద్రీయ మార్పులతో ఎరువు 25-30% తగ్గుతుంది"
+    }
+  ],
+  "pa": [
+    {
+      "crop": "ਕਣਕ",
+      "fertilizer_schedule": {
+        "basal": "ਬਿਜਾਈ ਸਮੇਂ 60 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ + 60 ਕਿਲੋ ਫਾਸਫੋਰਸ + 40 ਕਿਲੋ ਪੋਟਾਸ਼ ਪ੍ਰਤੀ ਹੈਕਟੇਅਰ",
+        "first_irrigation": "ਪਹਿਲੀ ਸਿੰਚਾਈ (21 ਦਿਨ) ਤੇ 30 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ",
+        "second_irrigation": "ਦੂਜੀ ਸਿੰਚਾਈ (40-50 ਦਿਨ) ਤੇ 30 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ"
+      },
+      "organic_alternative": "5-7 ਟਨ ਗੋਬਰ ਦੀ ਖਾਦ ਜਾਂ ਕੰਪੋਸਟ ਪ੍ਰਤੀ ਹੈਕਟੇਅਰ",
+      "dosage_reduction": "ਜੈਵਿਕ ਖਾਦ ਵਰਤਣ ਨਾਲ ਰਸਾਇਣਕ ਖਾਦ 25% ਘਟਾਓ"
+    },
+    {
+      "crop": "ਚੌਲ",
+      "fertilizer_schedule": {
+        "nursery": "ਨਰਸਰੀ ਵਿੱਚ 10 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ + 20 ਕਿਲੋ ਫਾਸਫੋਰਸ",
+        "transplanting": "ਰੋਪਾਈ ਤੇ 50 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ + 50 ਕਿਲੋ ਫਾਸਫੋਰਸ + 50 ਕਿਲੋ ਪੋਟਾਸ਼",
+        "tillering": "ਕਲੀਆਂ ਨਿਕਲਦੇ ਸਮੇਂ (20-25 ਦਿਨ) 25 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ",
+        "panicle": "ਬਾਲੀ ਆਉਣ ਤੇ (40-45 ਦਿਨ) 25 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ"
+      },
+      "organic_alternative": "8-10 ਟਨ ਗੋਬਰ ਦੀ ਖਾਦ",
+      "dosage_reduction": "ਕੰਪੋਸਟ ਵਰਤਣ ਨਾਲ ਨਾਈਟ੍ਰੋਜਨ 30% ਘਟਾਓ"
+    },
+    {
+      "crop": "ਕਪਾਹ",
+      "fertilizer_schedule": {
+        "basal": "ਬਿਜਾਈ ਤੇ 75 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ + 75 ਕਿਲੋ ਫਾਸਫੋਰਸ + 75 ਕਿਲੋ ਪੋਟਾਸ਼",
+        "square_formation": "30 ਦਿਨਾਂ ਤੇ 37.5 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ",
+        "flowering": "60 ਦਿਨਾਂ ਤੇ 37.5 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ"
+      },
+      "organic_alternative": "10 ਟਨ ਗੋਬਰ ਦੀ ਖਾਦ + ਅਜ਼ੋਟੋਬੈਕਟਰ ਜੈਵਿਕ ਖਾਦ",
+      "dosage_reduction": "ਜੈਵਿਕ ਖਾਦ ਨਾਲ ਰਸਾਇਣਕ ਖਾਦ 20-25% ਘੱਟ"
+    },
+    {
+      "crop": "ਆਲੂ",
+      "fertilizer_schedule": {
+        "planting": "ਰੋਪਾਈ ਤੇ 120 ਕਿਲੋ ਨਾਈਟ੍ਰੋਜਨ + 80 ਕਿਲੋ ਫਾਸਫੋਰਸ + 100 ਕਿਲੋ ਪੋਟਾਸ਼",
+        "earthing_up": "ਨਾਈਟ੍ਰੋਜਨ 2 ਵਾਰ - ਰੋਪਾਈ ਅਤੇ ਮਿੱਟੀ ਚੜ੍ਹਾਉਣ ਸਮੇਂ"
+      },
+      "organic_alternative": "6-8 ਟਨ ਸੜੀ ਹੋਈ ਗੋਬਰ ਦੀ ਖਾਦ",
+      "dosage_reduction": "ਜੈਵਿਕ ਖਾਦ ਨਾਲ NPK 20% ਘਟਾਓ"
+    },
+    {
+      "crop": "ਟਮਾਟਰ",
+      "fertilizer_schedule": {
+        "basal": "ਰੋਪਾਈ ਤੇ ਸਿਫਾਰਿਸ਼ ਕੀਤੀ ਖੁਰਾਕ ਦਾ 50%",
+        "vegetative": "20-25 ਦਿਨਾਂ ਤੇ 25% ਖੁਰਾਕ",
+        "flowering": "40-45 ਦਿਨਾਂ ਤੇ 25% ਖੁਰਾਕ"
+      },
+      "organic_alternative": "10 ਟਨ ਗੋਬਰ ਦੀ ਖਾਦ + 2 ਟਨ ਵਰਮੀਕੰਪੋਸਟ ਪ੍ਰਤੀ ਹੈਕਟੇਅਰ",
+      "dosage_reduction": "ਜੈਵਿਕ ਸੁਧਾਰਾਂ ਨਾਲ ਖਾਦ 25-30% ਘੱਟ"
+    }
+  ]
+}

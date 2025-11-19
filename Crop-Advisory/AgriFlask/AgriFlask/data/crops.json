@@ -1,0 +1,494 @@
+{
+  "en": [
+    {
+      "crop": {
+        "name": "Wheat (HD-2967)",
+        "category": "Cereal",
+        "season": "Rabi (Winter)",
+        "season_code": "rabi",
+        "duration_days": 120,
+        "variety": "HD-2967",
+        "yield_potential": "45-50 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 120 kg/ha Nitrogen, 60 kg/ha Phosphorus, 40 kg/ha Potassium",
+      "irrigation_requirement": "4-6 irrigations required",
+      "pest_alerts": "Watch for aphids and rust disease",
+      "sowing_period": "November - December"
+    },
+    {
+      "crop": {
+        "name": "Wheat (PBW-343)",
+        "category": "Cereal",
+        "season": "Rabi (Winter)",
+        "season_code": "rabi",
+        "duration_days": 125,
+        "variety": "PBW-343",
+        "yield_potential": "50-55 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 125 kg/ha Nitrogen, 65 kg/ha Phosphorus, 45 kg/ha Potassium",
+      "irrigation_requirement": "5-6 irrigations required",
+      "pest_alerts": "Monitor for stem rust and leaf blight",
+      "sowing_period": "November - December"
+    },
+    {
+      "crop": {
+        "name": "Rice (Pusa Basmati-1121)",
+        "category": "Cereal",
+        "season": "Kharif (Monsoon)",
+        "season_code": "kharif",
+        "duration_days": 145,
+        "variety": "Pusa Basmati-1121",
+        "yield_potential": "40-45 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 100 kg/ha Nitrogen, 50 kg/ha Phosphorus, 50 kg/ha Potassium",
+      "irrigation_requirement": "Water logging essential for first 3-4 weeks",
+      "pest_alerts": "Monitor for stem borer and blast disease",
+      "sowing_period": "June - July"
+    },
+    {
+      "crop": {
+        "name": "Rice (IR-64)",
+        "category": "Cereal",
+        "season": "Kharif (Monsoon)",
+        "season_code": "kharif",
+        "duration_days": 120,
+        "variety": "IR-64",
+        "yield_potential": "55-60 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 120 kg/ha Nitrogen, 60 kg/ha Phosphorus, 60 kg/ha Potassium",
+      "irrigation_requirement": "Maintain 5-7 cm water level throughout growth",
+      "pest_alerts": "Check for brown plant hopper and bacterial blight",
+      "sowing_period": "June - July"
+    },
+    {
+      "crop": {
+        "name": "Cotton (Bt Cotton - Bunny)",
+        "category": "Cash Crop",
+        "season": "Kharif",
+        "season_code": "kharif",
+        "duration_days": 180,
+        "variety": "Bt Cotton - Bunny",
+        "yield_potential": "25-30 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 150 kg/ha Nitrogen, 75 kg/ha Phosphorus, 75 kg/ha Potassium",
+      "irrigation_requirement": "8-10 irrigations needed",
+      "pest_alerts": "Beware of bollworm and whitefly",
+      "sowing_period": "May - June"
+    },
+    {
+      "crop": {
+        "name": "Sugarcane (Co-0238)",
+        "category": "Cash Crop",
+        "season": "Year-round",
+        "season_code": "year-round",
+        "duration_days": 365,
+        "variety": "Co-0238",
+        "yield_potential": "900-1000 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 250 kg/ha Nitrogen, 115 kg/ha Phosphorus, 115 kg/ha Potassium",
+      "irrigation_requirement": "Heavy irrigation required every 10-15 days",
+      "pest_alerts": "Check for early shoot borer",
+      "sowing_period": "October - November or February - March"
+    },
+    {
+      "crop": {
+        "name": "Potato (Kufri Jyoti)",
+        "category": "Vegetable",
+        "season": "Rabi",
+        "season_code": "rabi",
+        "duration_days": 90,
+        "variety": "Kufri Jyoti",
+        "yield_potential": "250-300 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 120 kg/ha Nitrogen, 80 kg/ha Phosphorus, 100 kg/ha Potassium",
+      "irrigation_requirement": "Light irrigation every 7-10 days",
+      "pest_alerts": "Watch for late blight disease",
+      "sowing_period": "October - November"
+    },
+    {
+      "crop": {
+        "name": "Tomato (Pusa Ruby)",
+        "category": "Vegetable",
+        "season": "Year-round",
+        "season_code": "year-round",
+        "duration_days": 75,
+        "variety": "Pusa Ruby",
+        "yield_potential": "400-500 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 150 kg/ha Nitrogen, 100 kg/ha Phosphorus, 100 kg/ha Potassium",
+      "irrigation_requirement": "Regular irrigation every 5-7 days",
+      "pest_alerts": "Monitor for fruit borer and leaf curl",
+      "sowing_period": "July - August (Kharif), November - December (Rabi)"
+    },
+    {
+      "crop": {
+        "name": "Maize (Hybrid - DHM-117)",
+        "category": "Cereal",
+        "season": "Kharif (Monsoon)",
+        "season_code": "kharif",
+        "duration_days": 95,
+        "variety": "DHM-117",
+        "yield_potential": "60-70 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 140 kg/ha Nitrogen, 70 kg/ha Phosphorus, 40 kg/ha Potassium",
+      "irrigation_requirement": "4-5 irrigations at critical stages",
+      "pest_alerts": "Watch for fall armyworm and stem borer",
+      "sowing_period": "June - July"
+    },
+    {
+      "crop": {
+        "name": "Chickpea (Pusa-256)",
+        "category": "Pulses",
+        "season": "Rabi (Winter)",
+        "season_code": "rabi",
+        "duration_days": 110,
+        "variety": "Pusa-256",
+        "yield_potential": "18-22 quintals/ha"
+      },
+      "fertilizer_recommendation": "Apply 20 kg/ha Nitrogen, 60 kg/ha Phosphorus, 40 kg/ha Potassium",
+      "irrigation_requirement": "2-3 light irrigations",
+      "pest_alerts": "Monitor for pod borer and wilt disease",
+      "sowing_period": "October - November"
+    }
+  ],
+  "hi": [
+    {
+      "crop": {
+        "name": "गेहूं",
+        "category": "अनाज",
+        "season": "रबी (सर्दी)",
+        "duration_days": 120
+      },
+      "fertilizer_recommendation": "120 कि.ग्रा./हे. नाइट्रोजन, 60 कि.ग्रा./हे. फॉस्फोरस, 40 कि.ग्रा./हे. पोटाश",
+      "irrigation_requirement": "4-6 सिंचाई आवश्यक",
+      "pest_alerts": "माहू और रतुआ रोग से सावधान"
+    },
+    {
+      "crop": {
+        "name": "धान",
+        "category": "अनाज",
+        "season": "खरीफ (मानसून)",
+        "duration_days": 135
+      },
+      "fertilizer_recommendation": "100 कि.ग्रा./हे. नाइट्रोजन, 50 कि.ग्रा./हे. फॉस्फोरस, 50 कि.ग्रा./हे. पोटाश",
+      "irrigation_requirement": "पहले 3-4 सप्ताह जलभराव आवश्यक",
+      "pest_alerts": "तना छेदक और झुलसा रोग की निगरानी"
+    },
+    {
+      "crop": {
+        "name": "कपास",
+        "category": "नकदी फसल",
+        "season": "खरीफ",
+        "duration_days": 180
+      },
+      "fertilizer_recommendation": "150 कि.ग्रा./हे. नाइट्रोजन, 75 कि.ग्रा./हे. फॉस्फोरस, 75 कि.ग्रा./हे. पोटाश",
+      "irrigation_requirement": "8-10 सिंचाई आवश्यक",
+      "pest_alerts": "गुलाबी सुंडी और सफ़ेद मक्खी से सावधान"
+    },
+    {
+      "crop": {
+        "name": "गन्ना",
+        "category": "नकदी फसल",
+        "season": "वर्षभर",
+        "duration_days": 365
+      },
+      "fertilizer_recommendation": "250 कि.ग्रा./हे. नाइट्रोजन, 115 कि.ग्रा./हे. फॉस्फोरस, 115 कि.ग्रा./हे. पोटाश",
+      "irrigation_requirement": "हर 10-15 दिन में भारी सिंचाई",
+      "pest_alerts": "प्रारंभिक प्ररोह छेदक की जांच करें"
+    },
+    {
+      "crop": {
+        "name": "आलू",
+        "category": "सब्जी",
+        "season": "रबी",
+        "duration_days": 90
+      },
+      "fertilizer_recommendation": "120 कि.ग्रा./हे. नाइट्रोजन, 80 कि.ग्रा./हे. फॉस्फोरस, 100 कि.ग्रा./हे. पोटाश",
+      "irrigation_requirement": "हर 7-10 दिन में हल्की सिंचाई",
+      "pest_alerts": "पछेती अंगमारी रोग से सावधान"
+    },
+    {
+      "crop": {
+        "name": "टमाटर",
+        "category": "सब्जी",
+        "season": "वर्षभर",
+        "duration_days": 75
+      },
+      "fertilizer_recommendation": "150 कि.ग्रा./हे. नाइट्रोजन, 100 कि.ग्रा./हे. फॉस्फोरस, 100 कि.ग्रा./हे. पोटाश",
+      "irrigation_requirement": "हर 5-7 दिन में नियमित सिंचाई",
+      "pest_alerts": "फल छेदक और पत्ती मरोड़ रोग की निगरानी"
+    }
+  ],
+  "mr": [
+    {
+      "crop": {
+        "name": "गहू",
+        "category": "धान्य",
+        "season": "रब्बी (हिवाळा)",
+        "duration_days": 120
+      },
+      "fertilizer_recommendation": "120 किग्रॅ/हेक्टर नायट्रोजन, 60 किग्रॅ/हेक्टर फॉस्फरस, 40 किग्रॅ/हेक्टर पोटॅश",
+      "irrigation_requirement": "4-6 पाणी आवश्यक",
+      "pest_alerts": "अ‍ॅफिड आणि गंज रोगापासून सावध"
+    },
+    {
+      "crop": {
+        "name": "तांदूळ",
+        "category": "धान्य",
+        "season": "खरीप (पावसाळा)",
+        "duration_days": 135
+      },
+      "fertilizer_recommendation": "100 किग्रॅ/हेक्टर नायट्रोजन, 50 किग्रॅ/हेक्टर फॉस्फरस, 50 किग्रॅ/हेक्टर पोटॅश",
+      "irrigation_requirement": "पहिल्या 3-4 आठवड्यांसाठी पाणी साठवणे आवश्यक",
+      "pest_alerts": "देठ बेधक आणि पाला झुळकी रोग तपासा"
+    },
+    {
+      "crop": {
+        "name": "कापूस",
+        "category": "नगदी पीक",
+        "season": "खरीप",
+        "duration_days": 180
+      },
+      "fertilizer_recommendation": "150 किग्रॅ/हेक्टर नायट्रोजन, 75 किग्रॅ/हेक्टर फॉस्फरस, 75 किग्रॅ/हेक्टर पोटॅश",
+      "irrigation_requirement": "8-10 पाणी आवश्यक",
+      "pest_alerts": "गुलाबी अळी आणि पांढऱ्या माशीपासून सावध"
+    },
+    {
+      "crop": {
+        "name": "ऊस",
+        "category": "नगदी पीक",
+        "season": "वर्षभर",
+        "duration_days": 365
+      },
+      "fertilizer_recommendation": "250 किग्रॅ/हेक्टर नायट्रोजन, 115 किग्रॅ/हेक्टर फॉस्फरस, 115 किग्रॅ/हेक्टर पोटॅश",
+      "irrigation_requirement": "दर 10-15 दिवसांनी भरपूर पाणी",
+      "pest_alerts": "प्रारंभिक कोंब बेधक तपासा"
+    },
+    {
+      "crop": {
+        "name": "बटाटा",
+        "category": "भाजी",
+        "season": "रब्बी",
+        "duration_days": 90
+      },
+      "fertilizer_recommendation": "120 किग्रॅ/हेक्टर नायट्रोजन, 80 किग्रॅ/हेक्टर फॉस्फरस, 100 किग्रॅ/हेक्टर पोटॅश",
+      "irrigation_requirement": "दर 7-10 दिवसांनी हलके पाणी",
+      "pest_alerts": "उशीरा पाला झुळूक रोगापासून सावध"
+    },
+    {
+      "crop": {
+        "name": "टोमॅटो",
+        "category": "भाजी",
+        "season": "वर्षभर",
+        "duration_days": 75
+      },
+      "fertilizer_recommendation": "150 किग्रॅ/हेक्टर नायट्रोजन, 100 किग्रॅ/हेक्टर फॉस्फरस, 100 किग्रॅ/हेक्टर पोटॅश",
+      "irrigation_requirement": "दर 5-7 दिवसांनी नियमित पाणी",
+      "pest_alerts": "फळ बेधक आणि पान कुरळे रोग तपासा"
+    }
+  ],
+  "bn": [
+    {
+      "crop": {
+        "name": "গম",
+        "category": "শস্য",
+        "season": "রবি (শীতকাল)",
+        "duration_days": 120
+      },
+      "fertilizer_recommendation": "১২০ কেজি/হেক্টর নাইট্রোজেন, ৬০ কেজি/হেক্টর ফসফরাস, ৪০ কেজি/হেক্টর পটাশিয়াম",
+      "irrigation_requirement": "৪-৬টি সেচের প্রয়োজন",
+      "pest_alerts": "এফিড এবং মরিচা রোগ থেকে সাবধান"
+    },
+    {
+      "crop": {
+        "name": "ধান",
+        "category": "শস্য",
+        "season": "খরিফ (বর্ষা)",
+        "duration_days": 135
+      },
+      "fertilizer_recommendation": "১০০ কেজি/হেক্টর নাইট্রোজেন, ৫০ কেজি/হেক্টর ফসফরাস, ৫০ কেজি/হেক্টর পটাশিয়াম",
+      "irrigation_requirement": "প্রথম ৩-৪ সপ্তাহ জলাবদ্ধতা প্রয়োজন",
+      "pest_alerts": "কাণ্ড ছিদ্রকারী এবং ব্লাস্ট রোগ পর্যবেক্ষণ করুন"
+    },
+    {
+      "crop": {
+        "name": "তুলা",
+        "category": "নগদ ফসল",
+        "season": "খরিফ",
+        "duration_days": 180
+      },
+      "fertilizer_recommendation": "১৫০ কেজি/হেক্টর নাইট্রোজেন, ৭৫ কেজি/হেক্টর ফসফরাস, ৭৫ কেজি/হেক্টর পটাশিয়াম",
+      "irrigation_requirement": "৮-১০টি সেচের প্রয়োজন",
+      "pest_alerts": "গোলাপি শুঁয়োপোকা এবং সাদা মাছি থেকে সাবধান"
+    },
+    {
+      "crop": {
+        "name": "আখ",
+        "category": "নগদ ফসল",
+        "season": "সারা বছর",
+        "duration_days": 365
+      },
+      "fertilizer_recommendation": "২৫০ কেজি/হেক্টর নাইট্রোজেন, ১১৫ কেজি/হেক্টর ফসফরাস, ১১৫ কেজি/হেক্টর পটাশিয়াম",
+      "irrigation_requirement": "প্রতি ১০-১৫ দিনে ভারী সেচ",
+      "pest_alerts": "প্রাথমিক কাণ্ড ছিদ্রকারী পরীক্ষা করুন"
+    },
+    {
+      "crop": {
+        "name": "আলু",
+        "category": "সবজি",
+        "season": "রবি",
+        "duration_days": 90
+      },
+      "fertilizer_recommendation": "১২০ কেজি/হেক্টর নাইট্রোজেন, ৮০ কেজি/হেক্টর ফসফরাস, ১০০ কেজি/হেক্টর পটাশিয়াম",
+      "irrigation_requirement": "প্রতি ৭-১০ দিনে হালকা সেচ",
+      "pest_alerts": "নাবী ধ্বসা রোগ থেকে সাবধান"
+    },
+    {
+      "crop": {
+        "name": "টমেটো",
+        "category": "সবজি",
+        "season": "সারা বছর",
+        "duration_days": 75
+      },
+      "fertilizer_recommendation": "১৫০ কেজি/হেক্টর নাইট্রোজেন, ১০০ কেজি/হেক্টর ফসফরাস, ১০০ কেজি/হেক্টর পটাশিয়াম",
+      "irrigation_requirement": "প্রতি ৫-৭ দিনে নিয়মিত সেচ",
+      "pest_alerts": "ফল ছিদ্রকারী এবং পাতা কুঁকড়ানো পর্যবেক্ষণ করুন"
+    }
+  ],
+  "te": [
+    {
+      "crop": {
+        "name": "గోధుమ",
+        "category": "ధాన్యం",
+        "season": "రబీ (శీతాకాలం)",
+        "duration_days": 120
+      },
+      "fertilizer_recommendation": "120 కిలోలు/హెక్టారు నత్రజని, 60 కిలోలు/హెక్టారు భాస్వరం, 40 కిలోలు/హెక్టారు పొటాషియం",
+      "irrigation_requirement": "4-6 నీటిపారుదల అవసరం",
+      "pest_alerts": "ఆఫిడ్స్ మరియు తెగులు రోగం నుండి జాగ్రత్త"
+    },
+    {
+      "crop": {
+        "name": "వరి",
+        "category": "ధాన్యం",
+        "season": "ఖరీఫ్ (వర్షాకాలం)",
+        "duration_days": 135
+      },
+      "fertilizer_recommendation": "100 కిలోలు/హెక్టారు నత్రజని, 50 కిలోలు/హెక్టారు భాస్వరం, 50 కిలోలు/హెక్టారు పొటాషియం",
+      "irrigation_requirement": "మొదటి 3-4 వారాలు నీటి నిల్వ అవసరం",
+      "pest_alerts": "కాండం కొరికే పురుగు మరియు బ్లాస్ట్ రోగం పర్యవేక్షించండి"
+    },
+    {
+      "crop": {
+        "name": "పత్తి",
+        "category": "నగదు పంట",
+        "season": "ఖరీఫ్",
+        "duration_days": 180
+      },
+      "fertilizer_recommendation": "150 కిలోలు/హెక్టారు నత్రజని, 75 కిలోలు/హెక్టారు భాస్వరం, 75 కిలోలు/హెక్టారు పొటాషియం",
+      "irrigation_requirement": "8-10 నీటిపారుదల అవసరం",
+      "pest_alerts": "గులాబీ పురుగు మరియు తెల్ల ఈగ నుండి జాగ్రత్త"
+    },
+    {
+      "crop": {
+        "name": "చెరకు",
+        "category": "నగదు పంట",
+        "season": "ఏడాది పొడవునా",
+        "duration_days": 365
+      },
+      "fertilizer_recommendation": "250 కిలోలు/హెక్టారు నత్రజని, 115 కిలోలు/హెక్టారు భాస్వరం, 115 కిలోలు/హెక్టారు పొటాషియం",
+      "irrigation_requirement": "ప్రతి 10-15 రోజులకు భారీ నీటిపారుదల",
+      "pest_alerts": "ప్రారంభ రెమ్మ కొరికే పురుగును తనిఖీ చేయండి"
+    },
+    {
+      "crop": {
+        "name": "బంగాళదుంప",
+        "category": "కూరగాయ",
+        "season": "రబీ",
+        "duration_days": 90
+      },
+      "fertilizer_recommendation": "120 కిలోలు/హెక్టారు నత్రజని, 80 కిలోలు/హెక్టారు భాస్వరం, 100 కిలోలు/హెక్టారు పొటాషియం",
+      "irrigation_requirement": "ప్రతి 7-10 రోజులకు తేలికపాటి నీటిపారుదల",
+      "pest_alerts": "ఆలస్యంగా వచ్చే రోగం నుండి జాగ్రత్త"
+    },
+    {
+      "crop": {
+        "name": "టమోటా",
+        "category": "కూరగాయ",
+        "season": "ఏడాది పొడవునా",
+        "duration_days": 75
+      },
+      "fertilizer_recommendation": "150 కిలోలు/హెక్టారు నత్రజని, 100 కిలోలు/హెక్టారు భాస్వరం, 100 కిలోలు/హెక్టారు పొటాషియం",
+      "irrigation_requirement": "ప్రతి 5-7 రోజులకు నిత్య నీటిపారుదల",
+      "pest_alerts": "పండు కొరికే పురుగు మరియు ఆకు ముడత పర్యవేక్షించండి"
+    }
+  ],
+  "pa": [
+    {
+      "crop": {
+        "name": "ਕਣਕ",
+        "category": "ਅਨਾਜ",
+        "season": "ਰਬੀ (ਸਰਦੀ)",
+        "duration_days": 120
+      },
+      "fertilizer_recommendation": "120 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਨਾਈਟ੍ਰੋਜਨ, 60 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਫਾਸਫੋਰਸ, 40 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਪੋਟਾਸ਼",
+      "irrigation_requirement": "4-6 ਸਿੰਚਾਈ ਦੀ ਲੋੜ",
+      "pest_alerts": "ਐਫਿਡ ਅਤੇ ਜੰਗਾਲ ਰੋਗ ਤੋਂ ਸਾਵਧਾਨ"
+    },
+    {
+      "crop": {
+        "name": "ਚੌਲ",
+        "category": "ਅਨਾਜ",
+        "season": "ਖਰੀਫ (ਮਾਨਸੂਨ)",
+        "duration_days": 135
+      },
+      "fertilizer_recommendation": "100 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਨਾਈਟ੍ਰੋਜਨ, 50 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਫਾਸਫੋਰਸ, 50 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਪੋਟਾਸ਼",
+      "irrigation_requirement": "ਪਹਿਲੇ 3-4 ਹਫਤੇ ਪਾਣੀ ਭਰਨਾ ਜ਼ਰੂਰੀ",
+      "pest_alerts": "ਡੰਡੀ ਵਿੰਨ੍ਹਣ ਵਾਲੇ ਕੀੜੇ ਅਤੇ ਝੁਲਸਾ ਰੋਗ ਦੀ ਨਿਗਰਾਨੀ ਕਰੋ"
+    },
+    {
+      "crop": {
+        "name": "ਕਪਾਹ",
+        "category": "ਨਕਦੀ ਫਸਲ",
+        "season": "ਖਰੀਫ",
+        "duration_days": 180
+      },
+      "fertilizer_recommendation": "150 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਨਾਈਟ੍ਰੋਜਨ, 75 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਫਾਸਫੋਰਸ, 75 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਪੋਟਾਸ਼",
+      "irrigation_requirement": "8-10 ਸਿੰਚਾਈ ਦੀ ਲੋੜ",
+      "pest_alerts": "ਗੁਲਾਬੀ ਕੀੜਾ ਅਤੇ ਸਫੇਦ ਮੱਖੀ ਤੋਂ ਸਾਵਧਾਨ"
+    },
+    {
+      "crop": {
+        "name": "ਗੰਨਾ",
+        "category": "ਨਕਦੀ ਫਸਲ",
+        "season": "ਸਾਲ ਭਰ",
+        "duration_days": 365
+      },
+      "fertilizer_recommendation": "250 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਨਾਈਟ੍ਰੋਜਨ, 115 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਫਾਸਫੋਰਸ, 115 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਪੋਟਾਸ਼",
+      "irrigation_requirement": "ਹਰ 10-15 ਦਿਨਾਂ ਵਿੱਚ ਭਾਰੀ ਸਿੰਚਾਈ",
+      "pest_alerts": "ਸ਼ੁਰੂਆਤੀ ਤਣਾ ਵਿੰਨ੍ਹਣ ਵਾਲਾ ਕੀੜਾ ਜਾਂਚੋ"
+    },
+    {
+      "crop": {
+        "name": "ਆਲੂ",
+        "category": "ਸਬਜ਼ੀ",
+        "season": "ਰਬੀ",
+        "duration_days": 90
+      },
+      "fertilizer_recommendation": "120 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਨਾਈਟ੍ਰੋਜਨ, 80 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਫਾਸਫੋਰਸ, 100 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਪੋਟਾਸ਼",
+      "irrigation_requirement": "ਹਰ 7-10 ਦਿਨਾਂ ਵਿੱਚ ਹਲਕੀ ਸਿੰਚਾਈ",
+      "pest_alerts": "ਦੇਰ ਨਾਲ ਝੁਲਸਾ ਰੋਗ ਤੋਂ ਸਾਵਧਾਨ"
+    },
+    {
+      "crop": {
+        "name": "ਟਮਾਟਰ",
+        "category": "ਸਬਜ਼ੀ",
+        "season": "ਸਾਲ ਭਰ",
+        "duration_days": 75
+      },
+      "fertilizer_recommendation": "150 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਨਾਈਟ੍ਰੋਜਨ, 100 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਫਾਸਫੋਰਸ, 100 ਕਿਲੋ/ਹੈਕਟੇਅਰ ਪੋਟਾਸ਼",
+      "irrigation_requirement": "ਹਰ 5-7 ਦਿਨਾਂ ਵਿੱਚ ਨਿਯਮਤ ਸਿੰਚਾਈ",
+      "pest_alerts": "ਫਲ ਵਿੰਨ੍ਹਣ ਵਾਲੇ ਕੀੜੇ ਅਤੇ ਪੱਤਾ ਕਰਲ ਦੀ ਨਿਗਰਾਨੀ ਕਰੋ"
+    }
+  ]
+}
